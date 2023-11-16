@@ -1,6 +1,8 @@
-<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Savel</a> 
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">yataknemogy</a>  - умный разработчик 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IT student studying programming languages<h3>
+
+
 <!--
 **yataknemogy/yataknemogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
