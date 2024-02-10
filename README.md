@@ -14,6 +14,7 @@
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
 <h1 align="center">📊 Статистика GitHub</h1>
