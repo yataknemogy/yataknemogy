@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я <a href="https://github.com/yataknemogy" target="_blank">yataknemogy</a>  - разработчик 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Нагибающий программист, кодер<h3>
+<h3 align="center">Начинающий программист, кодер<h3>
   
 <h1 align="center">💻 Технические Навыки</h1>
 <div align="center">  
