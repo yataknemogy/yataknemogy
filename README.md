@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я <a href="https://github.com/yataknemogy" target="_blank">yataknemogy</a>  - разработчик 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IT-школьник, изучающий языки программирования и пишу коды<h3>
+<h3 align="center">IT-ученик, изучающий языки программирования и пишу коды<h3>
   
 <h1 align="center">💻 Технические Навыки</h1>
 <div align="center">  
