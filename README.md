@@ -1,8 +1,8 @@
-<h1 align="center">Привет, я <a href="https://github.com/yataknemogy" target="_blank">yataknemogy</a>  - разработчик 
+<h1 align="center">Hi, i'm <a href="https://github.com/yataknemogy" target="_blank">yataknemogy</a>  - developer 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий программист, кодер<h3>
+<h3 align="center">Beginner programming, coder<h3>
   
-<h1 align="center">💻 Технические Навыки</h1>
+<h1 align="center">💻 Stack</h1>
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -21,10 +21,12 @@
 </div>
 </div>
 
-<h1 align="center">📊 Статистика GitHub</h1>
+<h1 align="center">📊 Stats GitHub</h1>
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=yataknemogy&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&text_color=868686&include_all_commits=true&text_bold=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&hide_border=true&include_all_commits=true&count_private=false&layout=compact&custom_title=Часто%20используемые%20языки&locale=ru&bg_color=ffffff00&text_color=868686">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical">
+
+
 </div>
 <!--
 **yataknemogy/yataknemogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
