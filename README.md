@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm <a href="https://github.com/yataknemogy" target="_blank">yataknemogy</a>  - developer 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Beginner programming, coder<h3>
+<h3 align="center">Beginner coder<h3>
   
 <h1 align="center">💻 Stack</h1>
 <div align="center">  
@@ -21,7 +21,7 @@
 </div>
 </div>
 
-<h1 align="center">📊 Stats GitHub</h1>
+<h1 align="center">📊 Stats</h1>
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=radical" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical">
