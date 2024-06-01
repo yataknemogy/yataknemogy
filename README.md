@@ -28,9 +28,9 @@
 </div>
 
 <h1 align="center">📊 Stats</h1>
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=radical&show_icons=true&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=compact&theme=radical&hide_border=true" />
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=radical" />
 </div>
 
 <!--
