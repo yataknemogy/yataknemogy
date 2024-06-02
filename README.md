@@ -29,8 +29,8 @@
 
 <h1 align="center">📊 Stats</h1>
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=radical" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=tokyonight" />
 </div>
 
 <!--
