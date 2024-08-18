@@ -34,9 +34,18 @@
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=tokyonight" src="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=tokyonight" alt="Top Languages"/>
 </div>
 
+<h1 align="center">🏆 GitHub Trophies</h1>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yataknemogy&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</div>
+
+<h1 align="center">📈 Profile Summary</h1>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yataknemogy&theme=tokyonight" alt="Profile Summary"/>
+</div>
 
 <!--
 **yataknemogy/yataknemogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
