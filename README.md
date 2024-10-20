@@ -40,6 +40,10 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=tokyonight" alt="Top Languages"/>
 </div>
 
+<h1 align="center">🏆 GitHub Trophies</h1>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yataknemogy&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 
 
 <!--
