@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">💻 Stack</h1>
 <div align="center">  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,11 +47,21 @@
 
 </div>
 
+
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=yataknemogy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=donut&theme=tokyonight" alt="Top Languages"/>
 </div>
+-->
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yataknemogy&show_icons=true&theme=github_dark&hide=contribs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yataknemogy&layout=compact&theme=github_dark" />
+</div>
+
 
 <h1 align="center">🏆 GitHub Trophies</h1>
 <div align="center">
